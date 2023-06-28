@@ -1,0 +1,5 @@
+{
+  "/page": "/",
+  "/(auth)/signin/page": "/signin",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]"
+}
